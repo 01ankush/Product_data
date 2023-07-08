@@ -1,5 +1,4 @@
-{
-    "api/products": [
+ [
     {
     "id": "ankushnoa",
     "name": "Holder Camera",
@@ -146,4 +145,3 @@
     "featured": true
     }
     ]
-}
