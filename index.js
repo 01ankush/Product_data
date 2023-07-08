@@ -15,7 +15,7 @@ const app = express();
 const PORT = process.env.PORT || 8000;
 const cors = require('cors');
 const corsOptions ={
-    origin:'http://localhost:3000', 
+    origin:'https://incomparable-pastelito-821469.netlify.app', 
     credentials:true,            //access-control-allow-credentials:true
     optionSuccessStatus:200
 }
